@@ -1,0 +1,8 @@
+---
+title: "HelloWerldAgain"
+author: "vc"
+date: "Wednesday, November 12, 2014"
+output: html_document
+---
+
+cyka blyat kurwa 
